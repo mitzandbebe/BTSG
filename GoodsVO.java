@@ -6,7 +6,7 @@ public class GoodsVO {
 	private int category_no;
 	private String goods_name;
 	private int price;
-	private String desciption;
+	private String desciption; //test
 	private String upload_name;
 	private long file_size;
 	private String original_name;
